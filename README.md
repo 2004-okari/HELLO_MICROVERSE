@@ -39,27 +39,6 @@ INTRODUCTORY project in Microverse.
  1. HTML5
  2. CSS3
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
 
 ### Key Features <a name="key-features"></a>
 
@@ -67,8 +46,6 @@ INTRODUCTORY project in Microverse.
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
->You can get started by opening the project link
 
 ### Prerequisites
 
@@ -119,7 +96,7 @@ Open the index.html file on the browser or use a VS code extension server to sta
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/2004-okari/HELLO_MICROVERSE/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
