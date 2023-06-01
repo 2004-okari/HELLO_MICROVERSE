@@ -1,74 +1,43 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Welcome...</b></h3>
 
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    -HTML
-    -CSS
-    -linters
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+# 📖 [HELLO MICROVERSE] <a name="about-project"></a>
 
-# 📖 [okari] <a name="about-project"></a>
+INTRODUCTORY project in Microverse.
 
+**[HELLO MICROVERSE]** is a first project experience that Microverse offers.  
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
+ 1. HTML5
+ 2. CSS3
 
 <details>
   <summary>Client</summary>
@@ -91,53 +60,60 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- **[prints out Hello Microverse]**
 
 
+## 💻 Getting Started <a name="getting-started"></a>
 
+>You can get started by opening the project link
+
+### Prerequisites
+
+In order to run this project you need:
+
+An extension to your browser
 ### Setup
 
 Clone this repository to your desired folder:
 
-  cd my-folder
-  git clone git@github.com:2004-okari/my-project.git
-
-
+git clone [https://github.com/2004-okari/HELLO_MICROVERSE](https://github.com/2004-okari/HELLO_MICROVERSE)
 ### Install
 
 Install this project with:
-github.com
-<!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+cd HELLO_MICROVERSE
+gem install
+### Usage
 
-> Mention all of the collaborators of this project.
+To run the project, execute the following command:
 
-👤 **Okari nyandika**
+Open the index.html file on the browser or use a VS code extension server to start the project`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **2004-okari**
+
+- GitHub: https://github.com/2004-okari
+- LinkedIn: (https://www.linkedin.com/in/rooney-okari-86a5ba250/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Login space]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -147,21 +123,28 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
+
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project you can star the repository to make it look better.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+I would like to thank Microverse for giving me all the necessary knowledge i need to make this project.
 
-I would like to thank My Stand up team, My morning session team and more so my coding patners.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
